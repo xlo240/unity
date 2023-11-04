@@ -17,7 +17,7 @@ public class JadeTrigger : MonoBehaviour
         //xcollider2.gameObject.GetComponent<Voley>().voley_speed = 0;
         //xcollider2.gameObject.GetComponent<Voley>().AnimFuncStop();
         if (xcollider.name == "voley") {
-            Debug.Log("Trigger Enter!!! " + xcollider.name);
+            
             jade_animator.SetBool("trevoga_idle", true);
         }
     }
