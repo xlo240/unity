@@ -8,7 +8,7 @@ public class Jade : MonoBehaviour
     {
         
     }
-
+    //aaaaaaaaaaaaaaa
     void FixedUpdate()
     {
         
