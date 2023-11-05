@@ -15,6 +15,7 @@ public class xmain : MonoBehaviour
     public float top_scroll_speed = 0; public float bottom_scroll_speed = 0;
     public float left_scroll_speed = 0; public float right_scroll_speed = 0;
 
+    //Изменение из дачи
     void Start()
     {
         //selected_unitObj = GameObject.Find("Voley_0");
